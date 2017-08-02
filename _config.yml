@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: Artune web site
+description: Artune web site
+show_downloads: true
+google_analytics:
+theme: 
